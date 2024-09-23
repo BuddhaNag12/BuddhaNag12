@@ -8,13 +8,15 @@
 
 <p align="left"> <a href="https://buddhanag-in.web.app" target="blank"><img src="https://img.shields.io/badge/Personal%20Website-8A2BE2" alt="buddha_nag" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript,**
+- 🌱 I’m currently learning **Terraform,**
 
 - 👯 I’m looking to collaborate on **React native projects**
+  
+- 👯 I’m looking to collaborate on **Full stack projects**
+  
+- 🤝 I’m looking for help with **Terraform**
 
-- 🤝 I’m looking for help with **React native native modules**
-
-- 💬 Ask me about **Vue, Node,React, React native, Firebase**
+- 💬 Ask me about **Vue, Node, React, React Native, Firebase, AWS, Terraform**
 
 - 📫 How to reach me **buddhanag12@gmail.com**
 
